@@ -30,7 +30,7 @@ pretty_urls:
 deploy:
   type: git
   repo: git@github.com:baopeg/baopeg.github.io.git
-  branch: master # 改为GitHub Pages默认分支
+  branch: gh-pages # 改为GitHub Pages默认分支
 
 # Directory
 source_dir: source

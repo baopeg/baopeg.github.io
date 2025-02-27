@@ -11,6 +11,11 @@ author: baopeg
 language: zh
 timezone: 'Asia/Shanghai'
 
+
+# Extensions
+theme: next
+
+
 # URL
 ## 必须设置为GitHub Pages地址
 url: https://baopeg.github.io
@@ -20,6 +25,12 @@ permalink_defaults:
 pretty_urls:
   trailing_index: true
   trailing_html: true
+
+# Deployment
+deploy:
+  type: git
+  repo: git@github.com:baopeg/baopeg.github.io.git
+  branch: master # 改为GitHub Pages默认分支
 
 # Directory
 source_dir: source
@@ -84,11 +95,6 @@ include:
 exclude:
 ignore:
 
-# Extensions
-theme: next
 
-# Deployment
-deploy:
-  type: git
-  repo: git@github.com:baopeg/baopeg.github.io.git
-  branch: master # 改为GitHub Pages默认分支
+
+

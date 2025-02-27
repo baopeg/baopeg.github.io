@@ -13,8 +13,8 @@ timezone: 'Asia/Shanghai'
 
 
 # Extensions
-theme: next
-
+# theme: next
+theme: butterfly
 
 # URL
 ## 必须设置为GitHub Pages地址

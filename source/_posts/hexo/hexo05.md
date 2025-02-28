@@ -1,7 +1,6 @@
 ---
 title: "Hexo博客部署指南（五）—— 文章写作与静态生成"
 date: 2025-02-28 10:22:31
-permalink: :year/:month/:day/hexo01/
 categories: ["技术教程"]
 tags: ["Hexo", "Markdown写作", "静态生成"]
 subtitle: "从写作到生成的完整流程"
@@ -62,8 +61,9 @@ print("代码块示例")
 
 [链接文字](https://example.com)
 
-![图片描述](image.jpg)
+![图片描述](image.jpg)   
 ```
+如果显示图片插入错误，请检查图片路径是否正确。改错参考[错误解决](https://blog.csdn.net/m0_43401436/article/details/107191688)
 
 ## 四、生成与部署
 ```bash [终端命令]

@@ -19,14 +19,14 @@ summary: "详细介绍Node.js和Git的安装配置过程，验证基础环境可
    ```
    > 注意：Node.js和npm安装完成后，需要重启电脑才能生效
 
-![node,npm版本](hexo01/node_npm_version.png)
+![node,npm版本](node_npm_version.png)
 
 2. 安装Git,详细教程：[https://git-scm.com/downloads](https://git-scm.com/downloads)
    ```shell
    git --version
    ```
    
-![git版本](hexo01/git_version.png)
+![git版本](git_version.png)
 
 ## 初始化Hexo项目
 

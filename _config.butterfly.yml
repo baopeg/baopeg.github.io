@@ -4,9 +4,9 @@
 
 nav:
   # 导航栏 Logo 图片
-  logo: /source/_imgs/config/logo.png
+  logo:
   # 是否显示标题
-  display_title: false
+  display_title: true
   # 是否固定导航栏
   fixed: true
 
@@ -29,22 +29,29 @@ menu:
 code_blocks:
   # 代码块主题: darker / pale night / light / ocean / false
   theme: darker
+
   # 是否使用 Mac 风格
   macStyle: false
+
   # 代码块高度限制（单位: px）
   height_limit: 200
+
   # 代码框展开/关闭
   highlight_shrink: false
+
   # 是否自动换行
   word_wrap: true
 
   # 工具栏
   # 是否显示复制按钮
   copy: true
+
   # 是否显示语言标签
   language: true
+
   # true: 收缩代码块 | false: 展开代码块 | none: 展开代码块并隐藏按钮
   shrink: false
+
   # 是否显示全屏显示代码块按钮
   fullpage: false
 
@@ -55,25 +62,29 @@ social:
   fab fa-github: https://github.com/baopeg || Github || "#hdhfbb"
   fas fa-envelope: mailto:1826325462@qq.com || Email || "#000000"
 
+
 # --------------------------------------
 # 图片设置
 # --------------------------------------
 
 # 网站的 favicon 图标
-favicon: /source/_imgs/config/logo.png
+favicon:
 
 # 头像设置
 avatar:
   # 头像图片链接
-  img: /source/_imgs/config/logo.png
+  img: /img/butterfly-icon.png
   # 是否启用头像效果
-  effect: false
+  effect:
+    name: scale        # 悬停时放大
+    scale_ratio: 1.2   # 放大倍数（默认 1.1）
+
 
 # 禁用所有横幅图片
 disable_top_img: false
 
 # 如果页面未设置横幅，则显示默认的横幅图片
-default_top_img:
+default_top_img: /img/top-img.png
 
 # 主页的横幅图片
 index_img:
@@ -177,7 +188,7 @@ index_top_img_height:
 # 首页的副标题设置
 subtitle:
   # 是否启用副标题
-  enable: false
+  enable: true
   # 是否启用打字机效果
   effect: true
   # 自定义 typed.js

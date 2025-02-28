@@ -15,8 +15,8 @@ summary: "配置GitHub Actions实现提交自动部署"
 ## GitHub 仓库配置
 1. 创建GitHub仓库：
    - 访问 [GitHub](https://github.com/new) 创建新仓库
-   - 仓库名称必须为 `<username>.github.io` (替换为你的GitHub用户名)
-   - ![创建仓库](create_respository.png)
+   - 仓库名称必须为 `<username>.github.io` (替换为你的GitHub用户名,我这里已经创建了，无法在新建，用my_blog代替)
+   - ![GitHub仓库创建](create_repository.png)
    - 选择public可见性
    - 勾选"Initialize this repository with a README"
 

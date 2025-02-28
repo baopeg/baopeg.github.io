@@ -64,7 +64,13 @@ ls  # 应看到生成的public目录内容
 部署完成后访问（首次生效约需5分钟）：
 `https://<username>.github.io`
 
-
+再次部署后访问：如果内容不更新，可能是github pages没有更新，
+检查步骤：
+1. 访问GitHub仓库，查看分支列表，确认`gh-pages`分支存在且为最新。
+2. 查看settings，确认`GitHub Pages`的分支为`gh-pages`。并且检查更新时间时候是否最新。
+![GitHub Pages设置](github_pages.png)
+3. 如果未跟新，手动更新。步骤：github仓库-> acotins —> run workflow
+![workflow](workflow.png)]
 ## GitHub Actions 配置（可选）
 创建持续集成工作流：
 ```yaml .github/workflows/deploy.yml

@@ -22,6 +22,7 @@ url: https://baopeg.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+  lang: zh-CN
 pretty_urls:
   trailing_index: true
   trailing_html: true

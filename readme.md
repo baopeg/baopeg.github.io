@@ -4,6 +4,7 @@
 
 1. 转载：Python-100-days之day01.初识Python
 2. 添加博客：markdown基础语法内容
+3. 配置主题：优化主题butterfly，参考对象[Levitate Gu](http://www.levitategu.cn/)
 
 ### 2025年2月28日
 

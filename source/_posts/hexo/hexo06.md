@@ -3,8 +3,7 @@ title: "Hexo博客部署指南（六）—— GitHub Pages自动化部署"
 date: 2025-02-28 11:38:00
 categories: ["技术教程", "hexo"]
 tags: ["Hexo", "GitHub Pages", "持续集成"]
-subtitle: "实现自动化云端部署"
-summary: "配置GitHub Actions实现提交自动部署"
+description: "实现自动化云端部署,配置GitHub Actions实现提交自动部署"
 ---
 
 # Hexo博客部署指南（六）—— GitHub Pages自动化部署

@@ -28,13 +28,13 @@ menu:
 
 code_blocks:
   # 代码块主题: darker / pale night / light / ocean / false
-  theme: darker
+  theme: light
 
   # 是否使用 Mac 风格
   macStyle: false
 
   # 代码块高度限制（单位: px）
-  height_limit: 200
+  height_limit: 300
 
   # 代码框展开/关闭
   highlight_shrink: false
@@ -53,7 +53,7 @@ code_blocks:
   shrink: false
 
   # 是否显示全屏显示代码块按钮
-  fullpage: false
+  fullpage: true
 
 # 社交媒体链接
 # 格式:

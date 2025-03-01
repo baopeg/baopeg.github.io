@@ -34,7 +34,7 @@ theme: butterfly
 ```bash blog根目录
 cp themes/butterfly/_config.yml _config.butterfly.yml
 ```
-手动添加：在更目录中创建`_config.butterfly.yml`，并复制`themes/butterfly/_config.yml`的内容。
+手动添加：在根目录中创建`_config.butterfly.yml`，并复制`themes/butterfly/_config.yml`的内容。
 
 ### 2. 基础个性化设置
 修改`_config.butterfly.yml`：

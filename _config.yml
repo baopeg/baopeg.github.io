@@ -15,7 +15,7 @@ timezone: 'Asia/Shanghai'
 # Extensions
 # theme: next
 theme: butterfly
-
+#theme: landscape
 # URL
 ## 必须设置为GitHub Pages地址
 url: https://baopeg.github.io

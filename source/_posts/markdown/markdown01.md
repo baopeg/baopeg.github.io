@@ -5,6 +5,7 @@ tags: ["markdown","基础语法","教程"]
 categories: ["技术教程","markdown"]
 keywords: ["markdown", "语法", "教程", "基础"]
 description: "本文介绍了Markdown的基础语法，包括标题、段落、字体、列表、区块、代码、链接、图片、表格和HTML标签的使用方法。"
+cover: /img/markdown01_cover.png
 ---
 
 # markdown基础语法

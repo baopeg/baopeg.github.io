@@ -85,7 +85,7 @@ disable_top_img: false
 default_top_img: /img/top_img.jpg
 
 # 主页的横幅图片
-index_img:
+index_img: /img/top_img.jpg
 
 # 归档页的横幅图片
 archive_img:
@@ -116,7 +116,7 @@ background: /img/top_img.jpg
 
 # 封面设置
 cover:
-  # 是否禁用封面
+  # 是否使用封面
   index_enable: true
   aside_enable: true
   archives_enable: true
@@ -125,9 +125,7 @@ cover:
   position: both
   # 当未设置封面时，显示默认封面
   default_cover:
-    - https://jsd.012700.xyz/gh/jerryc127/CDN@latest/cover/default_bg.png
-    - https://jsd.012700.xyz/gh/jerryc127/CDN@latest/cover/default_bg2.png
-    - https://jsd.012700.xyz/gh/jerryc127/CDN@latest/cover/default_bg3.png
+
 
 
 # 替换损坏的图片

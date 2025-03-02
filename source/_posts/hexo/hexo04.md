@@ -4,7 +4,9 @@ date: 2025-02-28 10:10:31
 categories: ["技术教程","hexo"]
 tags: ["Hexo", "主题配置", "Butterfly主题"]
 description: "打造个性化博客界面,以Butterfly主题为例演示主题安装与基础配置"
+cover: /img/hexo04_cover.png
 ---
+
 # Hexo博客部署指南（四）—— 主题安装与个性化
 本篇将介绍如何安装主题，以及如何对主题进行简单个配置，之后将以Butterfly主题为系列做一个教程。
 

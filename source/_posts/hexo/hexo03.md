@@ -4,6 +4,7 @@ date: 2025-02-28 09:52:26
 categories: ["技术教程","hexo"]
 tags: ["Hexo", "配置优化", "YAML语法"]
 description: "全局配置文件深度解析,逐步讲解站点标题、作者信息、URL格式等基础配置项"
+cover: /img/hexo03_cover.png
 ---
 
 # Hexo博客部署指南（三）—— _config.yml配置详解

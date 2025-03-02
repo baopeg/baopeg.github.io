@@ -6,6 +6,7 @@ categories: ["转载文章","Python-100-days"]
 tags: ["Python","编程语言","环境安装","开发环境"]
 keywords: ["Python安装","Python环境配置","Python入门"]
 description: "Python编程语言入门指南，详细介绍Python语言发展历史、特性优缺点及Windows/macOS环境安装步骤"
+cover: /img/day01_cover.png
 copyright_author: jackfrued
 copyright_author_href: https://github.com/jackfrued
 copyright_url: https://github.com/jackfrued/Python-100-Days

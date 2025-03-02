@@ -1,5 +1,13 @@
 ## 更新日志
 
+### 2025年3月2日
+
+1. 转载：Python-100-days之day02.变量和数据类型
+2. 给之前的博客增加cover
+3. 网站部署使用github pages ——> actions 自动化更新，每次push就会执行actions，自动更新到github pages
+参考内容：[hexo官方文档](https://hexo.io/zh-cn/docs/github-pages)
+4. butterfly主题优化,添加双评论布局
+
 ### 2025年3月1日
 
 1. 转载：Python-100-days之day01.初识Python

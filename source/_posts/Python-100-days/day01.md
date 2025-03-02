@@ -1,5 +1,5 @@
 ---
-title: "day01.初识Python"
+title: "转载：day01.初识Python"
 date: 2025-03-01 11:07:34
 updated: 
 categories: ["转载文章","Python-100-days"]

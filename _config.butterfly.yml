@@ -355,7 +355,7 @@ aside:
     # 是否显示公告卡片
     enable: true
     # 公告内容
-    content: 持续更新中...
+    content: 博客目前部署在GitHub Pages，访问速度受 GitHub 服务器影响，请耐心等待。或者使用魔法加速访问！
   card_recent_post:
     # 是否显示最近文章卡片
     enable: true
@@ -366,7 +366,7 @@ aside:
     sort_order:
   card_newest_comments:
     # 是否显示最新评论卡片
-    enable: ture
+    enable: false
     sort_order:
     # 显示评论数量
     limit: 10
@@ -384,7 +384,7 @@ aside:
     sort_order:
   card_tags:
     # 是否显示标签卡片
-    enable: true
+    enable: false
     # 显示标签数量，0 表示显示所有
     limit: 0
     # 是否启用颜色
@@ -412,7 +412,7 @@ aside:
     # 标题显示系列名称
     series_title: false
     # 排序方式：title 或 date
-    orderBy: 'date'
+    orderBy: date
     # 排序顺序：1 表示升序，-1 表示降序
     order: -1
   card_webinfo:

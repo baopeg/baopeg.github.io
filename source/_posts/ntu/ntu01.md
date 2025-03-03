@@ -85,9 +85,7 @@ https://pan.baidu.com/s/1_Dk-Nlx6fVhBa67KiDa8Gg?pwd=41vo
 > 绿泡泡：`baopeg `
 > 小企鹅：`baopeg0308`
 
-—————— 写于2024.8.25
-
-
+<div style="text-align: right;">—————— 写于2024.8.25</div>
 
 ## 附录：一些经典瞬间回忆🔮
 

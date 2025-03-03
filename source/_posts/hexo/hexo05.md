@@ -1,6 +1,7 @@
 ---
 title: "Hexo博客部署指南（五）—— 文章写作与静态生成"
 date: 2025-02-28 10:22:31
+updated: 2025-02-28 10:22:31
 categories: ["技术教程","hexo"]
 tags: ["Hexo", "Markdown写作", "静态生成"]
 description: "从写作到生成的完整流程,详解文章创建、Front-matter配置和静态文件生成"

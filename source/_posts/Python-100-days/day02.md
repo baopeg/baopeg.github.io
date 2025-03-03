@@ -1,7 +1,7 @@
 ---
 title: "转载：day02.第一个Python程序"
 date: 2025-03-02 
-updated: 
+updated: 2025-03-02 
 categories: ["转载文章","Python-100-days"]
 tags:  ["Python基础","编程环境配置","PyCharm","VS Code"]
 keywords: ["Python第一个程序","Python开发工具","PyCharm安装","Python交互式环境","Python注释","hello world","Python入门教程"]

@@ -1,7 +1,7 @@
 ---
 title: "转载：day01.初识Python"
 date: 2025-03-01 11:07:34
-updated: 
+updated: 2025-03-01 11:07:34
 categories: ["转载文章","Python-100-days"]
 tags: ["Python","编程语言","环境安装","开发环境"]
 keywords: ["Python安装","Python环境配置","Python入门"]

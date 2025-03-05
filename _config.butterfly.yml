@@ -1016,7 +1016,7 @@ canvas_nest:
 # 鼠标点击效果: 烟花
 fireworks:
   # 是否启用烟花效果
-  enable: false
+  enable: true
   zIndex: 9999
   # 是否在移动设备上启用
   mobile: false
@@ -1031,7 +1031,7 @@ click_heart:
 # 鼠标点击效果: 文字
 clickShowText:
   # 是否启用文字效果
-  enable: true
+  enable: false
   text:
      - I
      - LOVE
@@ -1040,7 +1040,7 @@ clickShowText:
   # 是否随机显示文字
   random: false
   # 是否在移动设备上启用
-  mobile: true
+  mobile: false
 
 # --------------------------------------
 # 灯箱设置

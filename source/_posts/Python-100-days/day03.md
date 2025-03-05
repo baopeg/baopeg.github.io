@@ -3,9 +3,9 @@ title: "转载：day03.Python语言中的变量"
 date: <%= date(page.date) %>
 updated: <%= date(Date.now()) %> 
 categories: ["转载文章","Python-100-days"]
-tags: [python基础,变量,数据类型,编程入门]
-keywords:[python变量,数据类型,类型转换]
-description: 介绍Python语言中的变量概念和使用方法,讲解Python中常用的数据类型（整型、浮点型、字符串型、布尔型）,详细说明变量命名的规则和惯例,演示变量的基本运算和类型转换操作。
+tags: ["python基础","变量","数据类型","编程入门"]
+keywords: ["python变量","数据类型","类型转换"]
+description: "介绍Python语言中的变量概念和使用方法,讲解Python中常用的数据类型（整型、浮点型、字符串型、布尔型）,详细说明变量命名的规则和惯例,演示变量的基本运算和类型转换操作。"
 cover: /img/day03_cover.png
 copyright_author: jackfrued
 copyright_author_href: https://github.com/jackfrued
@@ -144,3 +144,5 @@ print(ord('d'))         # str类型的'd'转成int，输出100
 ### 总结
 
 在 Python 程序中，我们可以**使用变量来保存数据**，**变量有不同的类型**，常用的类型有`int`、`float`、`str`和`bool`。在有需要的情况下，可以通过 Python 内置的函数对变量进行类型转换。变量是可以做运算的，这是解决很多问题的先决条件，我们会在下一课中为大家详细介绍变量的运算。
+
+## baopeg有话说

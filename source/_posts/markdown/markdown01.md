@@ -1,7 +1,7 @@
 ---
 title: markdown基础语法（一）
-date: 2025-03-01
-updated: 2025-03-01
+date: <%= date(page.date) %>
+updated: <%= date(Date.now()) %> 
 tags: ["markdown","基础语法","教程"]
 categories: ["技术教程","markdown"]
 keywords: ["markdown", "语法", "教程", "基础"]

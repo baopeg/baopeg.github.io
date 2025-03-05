@@ -1,7 +1,7 @@
 ---
 title: "大学四年计算机课程资料（大数据）分享！"
-date: 2025-03-03
-updated: 2025-03-03
+date: <%= date(page.date) %>
+updated: <%= date(Date.now()) %> 
 sticky: 1
 tags: [ "课程资料","作业参考","实验报告","课程设计" ]
 categories: [ "资料分享" ]

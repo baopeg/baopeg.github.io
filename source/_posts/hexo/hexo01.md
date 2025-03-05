@@ -1,7 +1,7 @@
 ---
 title: "Hexo博客部署指南（一）—— Node.js与Git环境搭建"
-date: 2025-02-28 08:36:05
-updated: 2025-02-28 08:36:05
+date: <%= date(page.date) %>
+updated: <%= date(Date.now()) %> 
 categories: [ "技术教程","hexo" ]
 tags: [ "Hexo", "环境搭建", "Node.js", "Git" ]
 description: "从零开始配置Hexo运行环境,详细介绍Node.js和Git的安装配置过程，验证基础环境可用性"

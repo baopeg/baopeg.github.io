@@ -1,7 +1,7 @@
 ---
 title: "Hexo博客部署指南（二）—— 项目初始化与目录解析"
-date: 2025-02-28 09:34:32
-updated: 2025-02-28 09:34:32
+date: <%= date(page.date) %>
+updated: <%= date(Date.now()) %> 
 categories: [ "技术教程","hexo" ]
 tags: [ "Hexo", "项目初始化", "目录结构" ]
 description: "创建你的第一个Hexo项目,通过hexo init命令初始化项目，解析核心目录结构"

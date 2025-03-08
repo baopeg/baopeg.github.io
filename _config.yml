@@ -27,6 +27,11 @@ pretty_urls:
   trailing_index: true
   trailing_html: true
 
+
+git_commit_date:
+  enable: true
+  post_updated: true
+
 # Deployment
 deploy:
   type: #git

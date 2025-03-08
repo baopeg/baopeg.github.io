@@ -19,6 +19,7 @@ menu:
     音乐: /music/ || fas fa-music
     电影: /movies/ || fas fa-video
   链接: /link/ || fas fa-link
+  更新日志: /log/ || fas fa-
   联系我: /about/ || fas fa-heart
 
 
